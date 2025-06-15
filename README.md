@@ -1,0 +1,1 @@
+# odoo-learn-new-module
